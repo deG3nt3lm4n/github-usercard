@@ -22,11 +22,11 @@ In this project we are going to be accessing the GitHub API and building a socia
 
 **Follow these steps to set up and work on your project:**
 
-* [ ] Create a forked copy of this project.
-* [ ] Add your team lead as collaborator on Github.
-* [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-* [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [x] Create a forked copy of this project.
+* [x] Add your team lead as collaborator on Github.
+* [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+* [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+* [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 * [ ] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
@@ -69,7 +69,7 @@ In this project we are going to be accessing the GitHub API and building a socia
 
 * Instead of manually creating a list of followers, do it programmatically. Create a function that requests the followers data from the API after it has received your data and create a card for each of your followers. Hint: you can chain promises.
 
-* Look into adding more info as an expanding card. You will need to create some new CSS and a button that expands and contracts the card. 
+* Look into adding more info as an expanding card. You will need to create some new CSS and a button that expands and contracts the card.
 
 * Look into adding your GitHub contribution graph. There are a number of different ways of doing this, [this Stack Overflow discussion](https://stackoverflow.com/questions/34516592/embed-github-contributions-graph-in-website) will get you started.
 
